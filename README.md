@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:F59E0B,100:FBBF24&height=220&section=header&text=I'm%20Toast&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Getting%20toasted%20by%20code%20at%20Kuressaare%20Ametikool&descAlignY=56&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:F59E0B,100:FBBF24&height=220&section=header&text=I'm%20Toast&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Getting%20toasted%20by%20code&descAlignY=56&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql&theme=dark" />
 </p>
 
-<p align="center"><sub>Learning these at <b>Kuressaare Ametikool</b> — updated as I pick up more</sub></p>
+<p align="center"><sub>Updated as I pick up more</sub></p>
 
 <br/>
 
@@ -30,10 +30,9 @@
 <tr>
 <td>
 
-- Studying at **Kuressaare Ametikool**
 - Learning **web dev** (HTML/CSS/JS), **Python**, and **SQL**
 - Turning half-baked ideas into (mostly) working code
-- New to this — well done, not burnt (yet)
+- New to this, well done, not burnt (yet)
 
 </td>
 </tr>
@@ -44,9 +43,7 @@
 ## Featured Project
 
 <p align="center">
-  <a href="https://github.com/SunToastedBread/Dcc-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunToastedBread&repo=Dcc-Projects&theme=default&hide_border=true&bg_color=fffbeb&title_color=d97706&icon_color=f59e0b" />
-  </a>
+  <a href="https://github.com/SunToastedBread/Dcc-Projects"><b>Dcc-Projects</b></a>
 </p>
 
 <br/>
@@ -63,4 +60,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,50:F59E0B,100:D97706&height=100&section=footer" width="100%"/>
 </p>
 
-<p align="center"><em>Thanks for stopping by — stay toasty</em></p>
+<p align="center"><em>Thanks for stopping by, stay toasty</em></p>
