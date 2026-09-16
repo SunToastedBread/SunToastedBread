@@ -48,14 +48,6 @@
 
 <br/>
 
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SunToastedBread&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=d97706&icon_color=f59e0b" />
-</p>
-
-<br/>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,50:F59E0B,100:D97706&height=100&section=footer" width="100%"/>
 </p>
