@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:F59E0B,100:FBBF24&height=220&section=header&text=I'm%20Toast%20🍞&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Getting%20toasted%20by%20code%20at%20Kuressaare%20Ametikool&descAlignY=56&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:F59E0B,100:FBBF24&height=220&section=header&text=I'm%20Toast&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Getting%20toasted%20by%20code%20at%20Kuressaare%20Ametikool&descAlignY=56&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <br/>
 
-## 🔥 What I'm Toasting Right Now
+## What I'm Toasting Right Now
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql&theme=dark" />
@@ -24,16 +24,16 @@
 
 <br/>
 
-## 🍞 About Me
+## About Me
 
 <table align="center">
 <tr>
 <td>
 
-- 📍 Studying at **Kuressaare Ametikool**
-- 🧠 Learning **web dev** (HTML/CSS/JS), **Python**, and **SQL**
-- 🍞 Turning half-baked ideas into (mostly) working code
-- 🔥 New to this — well done, not burnt (yet)
+- Studying at **Kuressaare Ametikool**
+- Learning **web dev** (HTML/CSS/JS), **Python**, and **SQL**
+- Turning half-baked ideas into (mostly) working code
+- New to this — well done, not burnt (yet)
 
 </td>
 </tr>
@@ -41,7 +41,7 @@
 
 <br/>
 
-## 📂 Featured Project
+## Featured Project
 
 <p align="center">
   <a href="https://github.com/SunToastedBread/Dcc-Projects">
@@ -51,7 +51,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SunToastedBread&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=d97706&icon_color=f59e0b" />
@@ -63,4 +63,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,50:F59E0B,100:D97706&height=100&section=footer" width="100%"/>
 </p>
 
-<p align="center"><em>Thanks for stopping by — stay toasty ⭐</em></p>
+<p align="center"><em>Thanks for stopping by — stay toasty</em></p>
